@@ -1,0 +1,8 @@
+# Windows / Termux / Linux
+
+pip install -r requirements.txt
+
+# Build browser version
+pygbag main.py
+
+# The web build will be created by pygbag.
